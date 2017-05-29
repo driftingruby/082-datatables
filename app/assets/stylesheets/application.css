@@ -1,0 +1,10 @@
+/*
+ *
+ *= require datatables
+ *
+ *  For bootstrap support
+ *  require datatables/dataTables.bootstrap
+ * 
+ *= require_tree .
+ *= require_self
+ */
